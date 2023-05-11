@@ -1,7 +1,7 @@
 package edu.handong.csee.java.inheritance;
 
 public class Dog extends Animal {
-	// hide and overriding
+	// hiding
     public static void testClassMethod() {
         System.out.println("The static method in Dog");
     }
